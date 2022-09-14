@@ -22,10 +22,10 @@
         {
             "tag": "polam",
             "patterns":[
-                "Am I a polam?","Are we polam?","is that polam or what?"
+                "Am I a polam?","is that polam or what?"
             ],
             "responses":[
-                "Yes, you are!", "Yep", "Sure", "Ofcourse"
+                "Yes, I am!", "Yep", "Sure", "Ofcourse"
             ]
         }
     ]
