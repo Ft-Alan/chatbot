@@ -1,0 +1,32 @@
+{
+    "intents":[
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hey", "Whatsup", "Howdy","Hello","Yo","Is anyone there?"
+            ],
+            "responses":[
+                "Hello there!", "Hey there!", "Hi", "Hello, how can I help you?",
+                "How may I be of service?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns":[
+                "Bye", "See you later", "Goodbye"
+            ],
+            "responses":[
+                "Thanks for coming!", "Bye, See you again", "Have a nice day"
+            ]
+        },
+        {
+            "tag": "polam",
+            "patterns":[
+                "Am I a polam?","Are we polam?","is that polam or what?"
+            ],
+            "responses":[
+                "Yes, you are!", "Yep", "Sure", "Ofcourse"
+            ]
+        }
+    ]
+}
